@@ -26,7 +26,7 @@ SECRET_KEY = ')@6*@m!*r(6!f_3fu12t@g^14@yu8h^fm%2j1t_5w5)u*-fb+d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['maya-django-todo-app.herokuapp.com']
 
 
 # Application definition
